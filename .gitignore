@@ -1,5 +1,4 @@
 venv
-*.txt
 __pycache__
 .pytest_cache
 model_weights
